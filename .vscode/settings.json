@@ -1,0 +1,23 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-23\\lib\\javafx.base.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-23\\lib\\javafx.controls.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-23\\lib\\javafx.fxml.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-23\\lib\\javafx.graphics.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-23\\lib\\javafx.media.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-23\\lib\\javafx.swing.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-23\\lib\\javafx.web.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-23\\lib\\javafx-swt.jar",
+        "c:\\Users\\kayla\\javafx-sdk-21.0.5\\lib\\javafx.base.jar",
+        "c:\\Users\\kayla\\javafx-sdk-21.0.5\\lib\\javafx.controls.jar",
+        "c:\\Users\\kayla\\javafx-sdk-21.0.5\\lib\\javafx.fxml.jar",
+        "c:\\Users\\kayla\\javafx-sdk-21.0.5\\lib\\javafx.graphics.jar",
+        "c:\\Users\\kayla\\javafx-sdk-21.0.5\\lib\\javafx.media.jar",
+        "c:\\Users\\kayla\\javafx-sdk-21.0.5\\lib\\javafx.swing.jar",
+        "c:\\Users\\kayla\\javafx-sdk-21.0.5\\lib\\javafx.web.jar",
+        "c:\\Users\\kayla\\javafx-sdk-21.0.5\\lib\\javafx-swt.jar",
+        "c:\\Users\\kayla\\Downloads\\mariadb-java-client-3.5.1.jar"
+    ],
+    "jdk.runConfig.vmOptions": "--module-path \"C:\\Program Files\\Java\\javafx-sdk-23\\lib\" --add-modules javafx.controls,javafx.fxml"
+}
